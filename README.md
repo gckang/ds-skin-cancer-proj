@@ -41,5 +41,5 @@ To actually load in the data, we created a new PyTorch library Dataset and set u
 ### Data Exploration:
 The file “dataexploration-2.ipynb” was run. This created a data frame using the metadata csv file. This file created a graph of each type of diagnostic count, the distribution of male and female subjects, and counts of where each skin lesion was located. <br /><br />
 ### References:
-[1] N. Klingler, “EfficientNet: Pushing the Boundaries of Deep Learning Efficiency,” viso.ai, Mar. 18, 2024. https://viso.ai/deep-learning/efficientnet/
+[1] N. Klingler, “EfficientNet: Pushing the Boundaries of Deep Learning Efficiency,” viso.ai, Mar. 18, 2024. https://viso.ai/deep-learning/efficientnet/ <br /><br />
 [2] A. Pacheco et al., “PAD-UFES-20: a skin lesion dataset composed of patient data and clinical images collected from smartphones,” data.mendeley.com, vol. 1, Jul. 2020, doi: https://doi.org/10.17632/zr7vgbcyr2.1.
